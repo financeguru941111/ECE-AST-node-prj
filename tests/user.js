@@ -20,7 +20,7 @@ describe('user', function() {
   })
   
   it('get', function(done) {
-    // ....
+    // do smthg
     
     done()
   })
