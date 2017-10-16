@@ -2,3 +2,4 @@ node_modules
 lib/*.js
 public/*/*
 !public/*/.gitkeep
+!public/css/main.css
