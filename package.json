@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "start": "./bin/start",
-    "test": "./bin/test tests/*"
+    "test": "./bin/test tests/*",
+    "compile": "./bin/compile"
   },
   "dependencies": {
     "coffee-script": "^1.12.7",
